@@ -1,0 +1,10 @@
+{
+  "name": "YoutubeBoombox",
+  "version_number": "1.3.0",
+  "website_url": "https://github.com/steven4547466/YoutubeBoombox",
+  "description": "Play any youtube video through the boombox! Syncs with all players (that have the mod)!",
+  "dependencies": [
+      "2018-LC_API-1.2.1",
+      "steven4547466-CommandHandler-1.0.0"
+  ]
+}
